@@ -14,6 +14,13 @@ namespace MyRecipeAppFinal
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// Caleb Voskuil
+    /// ST10397320
+    /// Prog6221
+    /// group 1
+    /// References:https://youtu.be/GhQdlIFylQ8?si=cKIYSWunHDC1csWj
+    /// https://youtu.be/gfkTfcpWqAY?si=3BredEtmLRK-IVXr
+    /// https://youtu.be/wxznTygnRfQ?si=YdSPdyKekHStCUFz
     /// </summary>
     public partial class MainWindow : Window
     {
